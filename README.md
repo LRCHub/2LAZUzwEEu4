@@ -1,0 +1,58 @@
+# ¥ellow Bucks – Driftin'
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Me and my guys in the car
+Just smokin' motherfucker
+振り切るあいつら
+煙舞うコーナー
+Yeah
+クソな業界をぶっちぎる
+正解ない世界でオレが決めた道を正解に導く
+オレのペースにヘイターが全員チビってる
+バツを食いすぎたBitchみたく噛んどる唇
+左手光るリングと腕時計
+何もなかったあの頃とは違う運命は捻じ曲げる
+ベタ踏みアクセル
+Shawty気をつけないと飛んでくお前のマツエク
+止まれねえ
+カモも掘られねえ
+オレらバカじゃねえ
+安い話とダサい曲にオレら決して踊らねえ
+Me and my guys in the car
+Just smokin' motherfucker
+振り切るあいつら
+煙舞うコーナー
+You can't catch me, I'm driftin'
+Lamborghini Urus, I'm driftin'
+Running through the city, I'm driftin'
+Still gettin' to the top, I'm driftin'
+Driftin’
+俺とLil bro 速すぎてぶち壊したJaguar
+意識朦朧飛び出してきたAirbags
+地獄の底から帰ってきたI’m fucking back
+You know I’m ready
+これから手に入れてくBag
+¥B いる隣
+これから大金稼ぎ
+右肩上がり
+俺のLife 調子いい
+仕事もこなし
+皆んなcome and fuck with me
+I got fucking hoes on me
+今がある事がありがたい
+ありえない事ばかり起きるman I love my life
+怪我しても時間は1秒たりとも無駄にできやしない
+Can’t waste no time
+何が起きても俺は止まれねえ
+I can’t waste no time
+Me and my guys in the car
+Just smokin' motherfucker
+振り切るあいつら
+煙舞うコーナー
+I be fucking high when I’m driftin’
+It’s a green light, I be driftin’
+It’s a red light still driftin’
+I might die tonight still driftin’
+```
