@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Driftin'",
+  "base_artist": "¥ellow Bucks",
+  "createdAt": "2026-03-20T08:32:08.369382Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Driftin' Blues / Rambling On My Mind (Live)",
+      "artist": "Eric Clapton",
+      "has_synced": false,
+      "path": "select/01_Driftin'_Blues___Rambling_On_My_Mind_(Live)_Eric_Clapton.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Driftin' Blues \u0000 Rambling On My Mind (Live)",
+      "artist": "Eric Clapton",
+      "has_synced": false,
+      "path": "select/02_Driftin'_Blues_\u0000_Rambling_On_My_Mind_(Live)_Eric_Clapton.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Driftin'",
+      "artist": "Nu Shooz",
+      "has_synced": false,
+      "path": "select/03_Driftin'_Nu_Shooz.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Driftin' Blues",
+      "artist": "Sam Cooke",
+      "has_synced": false,
+      "path": "select/04_Driftin'_Blues_Sam_Cooke.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Aimlessly Driftin'",
+      "artist": "Chuck Berry",
+      "has_synced": true,
+      "path": "select/05_Aimlessly_Driftin'_Chuck_Berry.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Driftin' Blues",
+      "artist": "Chuck Berry",
+      "has_synced": true,
+      "path": "select/06_Driftin'_Blues_Chuck_Berry.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Driftin' Too Far from Shore",
+      "artist": "Bob Dylan",
+      "has_synced": false,
+      "path": "select/07_Driftin'_Too_Far_from_Shore_Bob_Dylan.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Driftin' Too Far From Shore",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/08_Driftin'_Too_Far_From_Shore_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Driftin'",
+      "artist": "Gary Moore",
+      "has_synced": true,
+      "path": "select/09_Driftin'_Gary_Moore.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Driftin' And Driftin'",
+      "artist": "The Paul Butterfield Blues Band",
+      "has_synced": false,
+      "path": "select/10_Driftin'_And_Driftin'_The_Paul_Butterfield_Blues_Band.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Driftin’ Blues",
+      "artist": "Sam Cooke",
+      "has_synced": true,
+      "path": "select/11_Driftin’_Blues_Sam_Cooke.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Driftin'",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/12_Driftin'_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Driftin' Blues",
+      "artist": "Bobby “Blue” Bland",
+      "has_synced": false,
+      "path": "select/13_Driftin'_Blues_Bobby_“Blue”_Bland.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Driftin'",
+      "artist": "The Stone Poneys",
+      "has_synced": false,
+      "path": "select/14_Driftin'_The_Stone_Poneys.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Driftin Blues",
+      "artist": "Sam Cooke",
+      "has_synced": true,
+      "path": "select/15_Driftin_Blues_Sam_Cooke.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Driftin' Back",
+      "artist": "Neil Young & Crazy Horse",
+      "has_synced": false,
+      "path": "select/16_Driftin'_Back_Neil_Young_&_Crazy_Horse.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Driftin' Back",
+      "artist": "Neil Young With Crazy Horse",
+      "has_synced": false,
+      "path": "select/17_Driftin'_Back_Neil_Young_With_Crazy_Horse.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Driftin'",
+      "artist": "¥ellow Bucks, CFN MALIK",
+      "has_synced": false,
+      "path": "select/pl_01_Driftin'_¥ellow_Bucks,_CFN_MALIK.txt"
+    }
+  ]
+}
